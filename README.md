@@ -30,7 +30,7 @@ The **Jr Penetration Tester** path on TryHackMe covers foundational cybersecurit
 
 | # | Module | Description | Notes |
 |--:|--------|-------------|-------|
-| 1 | **Introduction to Cyber Security** | Understand offensive/defensive security & cybersecurity careers | [View](notes/introduction-to-cyber-security.md) |
+| 1 | **Introduction to Cyber Security** | Understand offensive/defensive security & cybersecurity careers | [View](introduction-to-cyber-security/introduction-to-cyber-security.md) |
 | 2 | **Introduction to Pentesting** | Learn what penetration testing is and how it's done | [View](notes/introduction-to-pentesting.md) |
 | 3 | **Introduction to Web Hacking** | Hands-on web app vulnerabilities & exploitation | [View](notes/introduction-to-web-hacking.md) |
 | 4 | **Burp Suite** | Learn to use the industry-standard web hacking tool | [View](notes/burp-suite.md) |
