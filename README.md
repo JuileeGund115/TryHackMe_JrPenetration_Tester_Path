@@ -1,5 +1,5 @@
 
-# TryHackMe Penetration Tester Notes
+# TryHackMe Penetration Tester Notes (Ongoing)
 
 Welcome to my study notes repository for the [TryHackMe Jr Penetration Tester Path](https://tryhackme.com/path/preview/jr-penetration-tester). 
 This repo contains my hands-on learning summaries, key concepts, and tool usage as I progress through each module in this path.
